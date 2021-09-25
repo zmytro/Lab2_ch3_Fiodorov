@@ -9,7 +9,7 @@ public class HealthProfile {
     private int month;
     private int year;
     private double height;
-    private double weight; 
+    private double weight;
 
     public HealthProfile(String first_name, String last_name, String gender, int day, int month, int year, double height,
                          double weight) {
